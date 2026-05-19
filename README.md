@@ -62,19 +62,5 @@ addiction-relapse-survival-analysis/
 * AI-powered relapse prediction systems
 * Patient-centric longitudinal studies
 
-## Contributors
-
-* Shailesh Singh
-* Princy Shah
-* Anjali Borse
-* Samruddhi Naik
-* Abhishek Barve
-
-## Mentor
-
-* Dr. Leena Kulkarni
-
-## References
-
 * Research papers and journals related to survival analysis and addiction relapse studies are included in the project presentation.
 
